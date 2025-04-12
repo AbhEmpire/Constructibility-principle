@@ -17,14 +17,6 @@ It introduces:
 - Logical stress testing
 - Applications across AI, metaphysics, and design
 
----
-
-## 📘 Download
-
-> **[Download PDF (Master Edition)](Constructibility_Principle_MAC92_Master_Edition.pdf)**  
-> Version: 2025  
-> Author: MAC92 the Anomaly  
-> Rights: All Rights Reserved
 
 ---
 
